@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**BloodhavenStudios/BloodhavenStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, Were Bloodhaven Studios
 
 <img src="https://komarev.com/ghpvc/?username=BloodhavenStudios&label=Profile%20views&color=0e75b6&style=flat" alt="BloodhavenStudios" />
 
@@ -15,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
